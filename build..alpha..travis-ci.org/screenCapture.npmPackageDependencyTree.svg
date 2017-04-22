@@ -1,0 +1,76 @@
+<svg height="1166" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1166" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">13 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ pug-cli@1.0.0-alpha6 </tspan>
+<tspan x="10" y="90">  ├─┬ chalk@1.1.3 </tspan>
+<tspan x="10" y="106">  │ ├── ansi-styles@2.2.1 </tspan>
+<tspan x="10" y="122">  │ ├── escape-string-regexp@1.0.5 </tspan>
+<tspan x="10" y="138">  │ ├─┬ has-ansi@2.0.0 </tspan>
+<tspan x="10" y="154">  │ │ └── ansi-regex@2.1.1 </tspan>
+<tspan x="10" y="170">  │ ├── strip-ansi@3.0.1 </tspan>
+<tspan x="10" y="186">  │ └── supports-color@2.0.0 </tspan>
+<tspan x="10" y="202">  ├─┬ commander@2.9.0 </tspan>
+<tspan x="10" y="218">  │ └── graceful-readlink@1.0.1 </tspan>
+<tspan x="10" y="234">  ├─┬ mkdirp@0.5.1 </tspan>
+<tspan x="10" y="250">  │ └── minimist@0.0.8 </tspan>
+<tspan x="10" y="266">  └─┬ pug@2.0.0-beta.12 </tspan>
+<tspan x="10" y="282">    ├─┬ pug-code-gen@1.1.1 </tspan>
+<tspan x="10" y="298">    │ ├─┬ constantinople@3.1.0 </tspan>
+<tspan x="10" y="314">    │ │ ├── acorn@3.3.0 </tspan>
+<tspan x="10" y="330">    │ │ └── is-expression@2.1.0 </tspan>
+<tspan x="10" y="346">    │ ├── doctypes@1.1.0 </tspan>
+<tspan x="10" y="362">    │ ├── js-stringify@1.0.2 </tspan>
+<tspan x="10" y="378">    │ ├── pug-attrs@2.0.2 </tspan>
+<tspan x="10" y="394">    │ ├── pug-error@1.3.2 </tspan>
+<tspan x="10" y="410">    │ ├── void-elements@2.0.1 </tspan>
+<tspan x="10" y="426">    │ └─┬ with@5.1.1 </tspan>
+<tspan x="10" y="442">    │   └─┬ acorn-globals@3.1.0 </tspan>
+<tspan x="10" y="458">    │     └── acorn@4.0.11 </tspan>
+<tspan x="10" y="474">    ├─┬ pug-filters@2.1.2 </tspan>
+<tspan x="10" y="490">    │ ├─┬ clean-css@3.4.25 </tspan>
+<tspan x="10" y="506">    │ │ ├── commander@2.8.1 </tspan>
+<tspan x="10" y="522">    │ │ └─┬ source-map@0.4.4 </tspan>
+<tspan x="10" y="538">    │ │   └── amdefine@1.0.1 </tspan>
+<tspan x="10" y="554">    │ ├─┬ jstransformer@1.0.0 </tspan>
+<tspan x="10" y="570">    │ │ ├── is-promise@2.1.0 </tspan>
+<tspan x="10" y="586">    │ │ └─┬ promise@7.1.1 </tspan>
+<tspan x="10" y="602">    │ │   └── asap@2.0.5 </tspan>
+<tspan x="10" y="618">    │ ├── pug-walk@1.1.2 </tspan>
+<tspan x="10" y="634">    │ ├─┬ resolve@1.3.3 </tspan>
+<tspan x="10" y="650">    │ │ └── path-parse@1.0.5 </tspan>
+<tspan x="10" y="666">    │ └─┬ uglify-js@2.8.22 </tspan>
+<tspan x="10" y="682">    │   ├── source-map@0.5.6 </tspan>
+<tspan x="10" y="698">    │   ├── uglify-to-browserify@1.0.2 </tspan>
+<tspan x="10" y="714">    │   └─┬ yargs@3.10.0 </tspan>
+<tspan x="10" y="730">    │     ├── camelcase@1.2.1 </tspan>
+<tspan x="10" y="746">    │     ├─┬ cliui@2.1.0 </tspan>
+<tspan x="10" y="762">    │     │ ├─┬ center-align@0.1.3 </tspan>
+<tspan x="10" y="778">    │     │ │ ├─┬ align-text@0.1.4 </tspan>
+<tspan x="10" y="794">    │     │ │ │ ├─┬ kind-of@3.1.0 </tspan>
+<tspan x="10" y="810">    │     │ │ │ │ └── is-buffer@1.1.5 </tspan>
+<tspan x="10" y="826">    │     │ │ │ ├── longest@1.0.1 </tspan>
+<tspan x="10" y="842">    │     │ │ │ └── repeat-string@1.6.1 </tspan>
+<tspan x="10" y="858">    │     │ │ └── lazy-cache@1.0.4 </tspan>
+<tspan x="10" y="874">    │     │ ├── right-align@0.1.3 </tspan>
+<tspan x="10" y="890">    │     │ └── wordwrap@0.0.2 </tspan>
+<tspan x="10" y="906">    │     ├── decamelize@1.2.0 </tspan>
+<tspan x="10" y="922">    │     └── window-size@0.1.0 </tspan>
+<tspan x="10" y="938">    ├─┬ pug-lexer@3.1.0 </tspan>
+<tspan x="10" y="954">    │ ├─┬ character-parser@2.2.0 </tspan>
+<tspan x="10" y="970">    │ │ └─┬ is-regex@1.0.4 </tspan>
+<tspan x="10" y="986">    │ │   └─┬ has@1.0.1 </tspan>
+<tspan x="10" y="1002">    │ │     └── function-bind@1.1.0 </tspan>
+<tspan x="10" y="1018">    │ └─┬ is-expression@3.0.0 </tspan>
+<tspan x="10" y="1034">    │   └── acorn@4.0.11 </tspan>
+<tspan x="10" y="1050">    ├── pug-linker@2.0.3 </tspan>
+<tspan x="10" y="1066">    ├─┬ pug-load@2.0.6 </tspan>
+<tspan x="10" y="1082">    │ └── object-assign@4.1.1 </tspan>
+<tspan x="10" y="1098">    ├─┬ pug-parser@2.0.2 </tspan>
+<tspan x="10" y="1114">    │ └── token-stream@0.0.1 </tspan>
+<tspan x="10" y="1130">    ├── pug-runtime@2.0.3 </tspan>
+<tspan x="10" y="1146">    └── pug-strip-comments@1.0.2</tspan>
+</text>
+</svg>
